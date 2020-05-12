@@ -1,1 +1,2 @@
 CONTENT from content.txt
+new content
